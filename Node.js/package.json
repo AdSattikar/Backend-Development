@@ -1,0 +1,20 @@
+{
+  "name": "surabhigroup",
+  "version": "1.0.0",
+  "description": "Backend for surabhi group website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnan Sattikar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemailer": "^6.7.7",
+    "nodemailer-mailgun-transport": "^2.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
