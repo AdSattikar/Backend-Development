@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongoose": "^6.6.0"
+  },
+  "name": "mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnan",
+  "license": "ISC",
+  "description": ""
+}
